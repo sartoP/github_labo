@@ -12,3 +12,5 @@ $ git init
 $ git status
 $ ls -al
 ...
+
+changed on dev02
